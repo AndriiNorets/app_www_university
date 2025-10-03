@@ -1,1 +1,2 @@
 poetry.lock
+/mysite/*/__pycache__
